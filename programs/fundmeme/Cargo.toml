@@ -1,12 +1,12 @@
 [package]
-name = "fundmeme"
+name = "fund.meme"
 version = "0.1.0"
-description = "Created By Fund.Meme"
+description = "Created By fund.meme"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "fundmeme"
+name = "fund.meme"
 
 [features]
 devnet = []
