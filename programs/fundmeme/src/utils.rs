@@ -3,7 +3,7 @@ use solana_program::pubkey;
 
 const PERCENT: u64 = 2;
 const BIGGER_HOLDER_PERCENT: u64 = 5;
-pub const PORK_MINT_ADDRESS: Pubkey = pubkey!("AhrMoEe9jWub7S2iTMUUmhAVM8iQdnKUtaVs9YpuvPC2");
+pub const PORK_MINT_ADDRESS: Pubkey = pubkey!("HBGLkHsqnjX4kLDohVvaW2eCeLHQ6NvaTCCMuNYSn7nL");
 
 pub const BIGGER_HOLDER: u64 = 10_000_000_000_000;
 pub const MINIMUM_DEPOSIT: u64 = 10_000_000_000;
