@@ -6,7 +6,7 @@ pub mod state;
 pub mod utils;
 
 use instructions::*;
-declare_id!("73UUeuFrHegTNWPLrzmnW7muHywfy9f6VTU1rh33P1zF");
+declare_id!("3WFyUN67m9qtTpMbQk5fkhCXxLYFwomYHuVj3QiD6QEH");
 
 #[program]
 pub mod fundmeme {
