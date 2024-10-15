@@ -215,10 +215,10 @@ describe("pork_staking", () => {
 
   it("Initialized!", async () => {
     const porkMint = new PublicKey(
-      "AhrMoEe9jWub7S2iTMUUmhAVM8iQdnKUtaVs9YpuvPC2"
+      "A6My2f1rwcjevEgHGsr9jv3wtp5oiDyehhMKdzwqdbjm"
     );
 
-    const programId = new PublicKey("73UUeuFrHegTNWPLrzmnW7muHywfy9f6VTU1rh33P1zF");
+    const programId = new PublicKey("BbyJ7ARrBFaU4xYs8yZvBeBuXCTYDXfrG4jFAsPfveFg");
 
     const [porkStake, _] = PublicKey.findProgramAddressSync(
       [Buffer.from(anchor.utils.bytes.utf8.encode("pork"))],
